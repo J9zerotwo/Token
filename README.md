@@ -20,7 +20,7 @@ This contract implements basic token management but lacks access controls, meani
 
 ### Executing program
 
-Certainly! Here’s a step-by-step breakdown of how the `MyToken` contract works, explaining each action and how it impacts the contract's variables.
+Here’s a step-by-step breakdown of how the `MyToken` contract works, explaining each action and how it impacts the contract's variables.
 
 ---
 
